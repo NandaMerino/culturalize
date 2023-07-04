@@ -51,7 +51,10 @@
 }
 
 .container-obras-description {
-    height: 100px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 .container-obras-description h2 {
@@ -63,6 +66,7 @@
 .container-obras-description p {
     font-size: 13px;
     font-weight: 250;
+    
 }
 
 
@@ -86,10 +90,11 @@
 }
 
 .article-obras-details {
-    /*display: flex;
-    justify-content: center;
-    flex-direction: column;*/
     margin-left: 30px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
 
 .article-obras-details h2 {
@@ -110,6 +115,8 @@
 
 .container-obras-details{
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .container-button-obras-details {
