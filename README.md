@@ -8,8 +8,9 @@ Este repositório contém o código e os arquivos relacionados ao projeto **Cult
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Uso](#instalação-e-uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [GitHub Pages] (#github-pages)
-- 
+- [GitHub Pages](#gitHub-pages)
+- [Status do Projeto](#status-do-projeto)
+  
 ## Descrição
 
 Entrega final do projeto do 2º período do curso de Engenharia de Software. O projeto consiste na criação de um site de fácil acesso para a população poder se informar e participar de eventos culturais que ocorrerão. Além da divulgação de artistas locais e seus trabalhos, como exposições, cursos de artesanato, música, teatro e dança. O foco principal é disponibilizar conteúdo para que a população se aproxime e faça parte da cultura local, trazendo mais visibilidade e incentivo para este cenário.
